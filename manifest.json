@@ -1,0 +1,8 @@
+{
+    "name": "rennyKawkaPortifolio",
+    "short_name": "renny_portifolio",
+    "start_url": ".",
+    "background_color": "#b4b6b8",
+    "theme_color": "#eaeaea",
+    "display": "standalone"
+}
